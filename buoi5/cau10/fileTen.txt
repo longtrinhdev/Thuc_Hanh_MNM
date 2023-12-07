@@ -1,0 +1,4 @@
+3,2021601661,ktmt02,nguyen van a,8.5,nan
+4,2021601897,ktmt02,nguyen van b,8.7,nan
+1,2021601778,ktmt01,trinh hoang long,nan,7.0
+2,2021601521,ktmt01,hoang anh tu,9.0,nan
